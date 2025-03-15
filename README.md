@@ -32,4 +32,4 @@ This Excel project evaluates whether a *12.5% discount* for a customer ("Croma")
 
 ---
 
- #Excel #ScenarioAnalysis #Finance #Learning# Excel-Scenario-Planning
+ #Excel #ScenarioAnalysis #Finance #Learning# Excel-Scenario-Planning #fimance
