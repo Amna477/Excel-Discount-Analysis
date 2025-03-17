@@ -1,4 +1,5 @@
 
+
 **Customer Discount Approval Scenario Analysis**
 ## 📌 Overview  
 This Excel project evaluates whether a *12.5% discount* for a customer ("Croma") meets the *$100,000 Gross Margin (GM) target* under three scenarios: Best Case, Realistic, and Worst Case. It demonstrates how discounts impact profitability and the importance of scenario planning in business decisions.
@@ -31,6 +32,8 @@ This Excel project evaluates whether a *12.5% discount* for a customer ("Croma")
 **Files**
 
 [Scenario Planning.pdf](https://github.com/user-attachments/files/19261849/Scenario.Planning.pdf)
+![Screenshot 2025-03-17 130207](https://github.com/user-attachments/assets/ae46e072-3e8b-4131-b584-0b64216b1c1f)
+
 
 
  #Excel #ScenarioAnalysis #Finance #Learning# Excel-Scenario-Planning #Finace
